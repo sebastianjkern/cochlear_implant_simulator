@@ -20,7 +20,7 @@ average_frequencies = [
 
 bandwidth = 1
 
-input_filename = 'abba.wav'
+input_filename = 'music.wav'
 output_filename = 'filtered.wav'
 fs, data = wavfile.read(input_filename)
 
